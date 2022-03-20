@@ -1,6 +1,6 @@
 
 <template>
-  <div>Hola</div>
+  <h1>Posts</h1>
 </template>
 
 <script>
