@@ -1,0 +1,17 @@
+{
+    "idleHeartbeats": 1299,
+    "navigatingHeartbeats": 345,
+    "totalCodingHeartbeats": 1410,
+    "languageHeartbeats": {
+        "vue": 760,
+        "scminput": 45,
+        "javascript": 605
+    },
+    "fileHeartbeats": {
+        "src/App.vue": 385,
+        "src/views/Home.vue": 113,
+        "scm/git/scm0/input": 45,
+        "src/router/index.js": 605,
+        "src/views/Inicio.vue": 262
+    }
+}
