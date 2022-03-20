@@ -1,8 +1,8 @@
 
 <template>
   <h1>POSTS</h1>
-  <div v-for='entradas in entradas' :key="entradas.id">
-    
+  <div class="container" v-for='entradas in entradas' :key="entradas.id">
+
     <h3>Usuario: {{ entradas.userId }} </h3> 
     <h3>Entrada: {{ entradas.id }} </h3> 
     <h3>Título: {{ entradas.title }} </h3> 
