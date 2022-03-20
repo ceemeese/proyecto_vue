@@ -1,13 +1,17 @@
 
 <template>
-  <h1>POSTS</h1>
-  <div class="container" v-for='entradas in entradas' :key="entradas.id">
+  <h1 class="text-center">POSTS</h1>
+  <div class="container">
+    <div class="entry-scrollarea row" v-for='entradas in entradas' :key="entradas.id">
+       <li class="d-flex flex-column list-group-item">
 
-    <h3>Usuario: {{ entradas.userId }} </h3> 
-    <h3>Entrada: {{ entradas.id }} </h3> 
-    <h3>Título: {{ entradas.title }} </h3> 
-    <h3>Body: {{ entradas.body }} </h3> 
+         <div class="p-2">Usuario: {{ entradas.userId }}</div>
+         <div class="p-2">Entrada: {{ entradas.id }}</div>
+         <div class="p-2">Titulo: {{ entradas.title }}</div>
+         <div class="p-2">Body: {{ entradas.body }}</div>
 
+      </li>
+    </div>
   </div>
 </template>
 
