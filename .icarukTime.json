@@ -1,13 +1,13 @@
 {
-    "idleHeartbeats": 2221,
-    "navigatingHeartbeats": 679,
-    "totalCodingHeartbeats": 2254,
+    "idleHeartbeats": 2796,
+    "navigatingHeartbeats": 882,
+    "totalCodingHeartbeats": 3267,
     "languageHeartbeats": {
         "scminput": 45,
         "vue": 524,
         "plaintext": 224,
         "css": 304,
-        "javascript": 1157
+        "javascript": 2170
     },
     "fileHeartbeats": {
         "scm/git/scm0/input": 45,
@@ -20,8 +20,10 @@
         "src/styles/styles.css": 45,
         "/Users/cristinamalmiercasalvador/Cole/GeeksHubs/VUE/proyecto_vue/src/main.js.git": 45,
         "src/modules/entradas/views/Inicio.vue": 123,
-        "src/store/index.js": 239,
+        "src/store/index.js": 904,
         "Untitled-1": 51,
-        "src/composables/useEntradas.js": 660
+        "src/composables/useEntradas.js": 719,
+        "src/store/entradas/index.js": 66,
+        "src/store/entradas/actions.js": 223
     }
 }
