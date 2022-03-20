@@ -1,6 +1,6 @@
 <template>
   <div id="nav">
-    <router-link to="/">Inicio</router-link> |
+    <router-link :to="{ name: 'inicio'}">Inicio</router-link> |
     <router-link :to="{ name: 'contacto'}">Contacto</router-link> |
     <router-link :to="{ name: 'autor'}">Autor</router-link>
   </div>
@@ -13,11 +13,11 @@
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
 }
 
 #nav {
+  text-align: center;
   padding: 30px;
 }
 
@@ -27,6 +27,6 @@
 }
 
 #nav a.router-link-exact-active {
-  color: #42b983;
+  color: #da2f76;
 }
 </style>
