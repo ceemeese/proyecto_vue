@@ -1,6 +1,6 @@
 
 <template>
-  <h1 class="text-center">POSTS</h1>
+  <h1 id="sep" class="text-center">POSTS</h1>
   <div class="container">
     <div class="entry-scrollarea row" v-for='entradas in entradas' :key="entradas.id">
        <li class="d-flex flex-column list-group-item">
@@ -37,3 +37,9 @@
       },
     };
 </script>
+
+<style>
+
+
+
+</style>

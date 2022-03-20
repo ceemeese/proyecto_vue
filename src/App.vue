@@ -36,6 +36,10 @@
   color: #2c3e50;
 }
 
+#sep {
+  margin-top: 20px;
+}
+
 #nav {
   padding: 20px;
 }
