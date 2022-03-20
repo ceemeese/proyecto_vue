@@ -1,19 +1,8 @@
 # proyecto_vue
 
-## Project setup
-```
-npm install
-```
+Código de ejemplo de aplicación de publicación de posts con Vue3
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Se cuenta con las siguientes ramas:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+master: Contiene los cambios aprobados <br>
+develop: Contiene cambios que están siendo desarrollados
