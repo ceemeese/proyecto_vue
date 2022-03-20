@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+master: Contiene los cambios aprobados
+develop: Contiene cambios que están siendo desarrollados
