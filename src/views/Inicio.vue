@@ -1,6 +1,6 @@
 
 <template>
-  <h1>Posts</h1>
+  <h1>POSTS</h1>
 </template>
 
 <script>
