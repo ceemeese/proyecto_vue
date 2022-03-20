@@ -1,10 +1,11 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
+import Inicio from '../views/Inicio.vue'
 
 const routes = [
   {
     path: '/',
     name: 'inicio',
-    component: () => import(/* webpackChunkName: "about" */ '../views/Inicio.vue')
+    component: Inicio
   },
   {
     path: '/contacto',
