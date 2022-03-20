@@ -1,18 +1,22 @@
 {
-    "idleHeartbeats": 856,
-    "navigatingHeartbeats": 159,
-    "totalCodingHeartbeats": 484,
+    "idleHeartbeats": 1175,
+    "navigatingHeartbeats": 234,
+    "totalCodingHeartbeats": 978,
     "languageHeartbeats": {
         "scminput": 45,
         "vue": 288,
-        "plaintext": 83,
-        "css": 68
+        "plaintext": 128,
+        "css": 304,
+        "javascript": 213
     },
     "fileHeartbeats": {
         "scm/git/scm0/input": 45,
         "src/views/Contacto.vue": 163,
-        "/Users/cristinamalmiercasalvador/Cole/GeeksHubs/VUE/proyecto_vue/src/views/Inicio.vue.git": 83,
+        "/Users/cristinamalmiercasalvador/Cole/GeeksHubs/VUE/proyecto_vue/src/views/Inicio.vue.git": 128,
         "src/views/Inicio.vue": 125,
-        "src/styles/style.css": 68
+        "src/styles/style.css": 113,
+        "src/style/style.css": 146,
+        "src/main.js": 213,
+        "src/styles/styles.css": 45
     }
 }
